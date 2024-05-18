@@ -1,1 +1,1 @@
-# Student-Financial-Management-System
+# Student-Finance-Tracker
