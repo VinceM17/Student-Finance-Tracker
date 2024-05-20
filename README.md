@@ -1,1 +1,1 @@
-# Student-Finance-Tracker
+# Student Financial Planning and Assistance Application(Web Application)
